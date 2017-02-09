@@ -31,7 +31,7 @@ This Python code was written using Python 2.7 and Numpy 1.5.1, but should be com
 </br>
 **Other Information**
 
-Author: RWK 
-License: None, free to use and edit as people wish. 
-Contact: May be made through GitHub. 
+Author: RWK </br>
+License: None, free to use and edit as people wish. </br>
+Contact: May be made through GitHub. </br>
 
