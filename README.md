@@ -6,7 +6,7 @@
    <img src="https://github.com/rwk506/Apples/blob/master/apples.jpeg" alt="Apples! nom nom nom" height="200">
 </a>
 
-### See the full Python Notebook <a href="https://github.com/rwk506/Apples/blob/master/All_of_the_Apples.ipynb">here</a>! ###
+### See the full Python Notebook <a href="https://github.com/rwk506/Apples/blob/master/All_of_the_Apples.md">here</a>! ###
 </br></br>
 
 
