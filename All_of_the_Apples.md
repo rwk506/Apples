@@ -20,7 +20,7 @@ Image(filename="ApplePic.jpeg")
 
 
 
-![jpeg](output_3_0.jpe)
+![jpeg](plots/output_3_0.jpe)
 
 
 
@@ -221,7 +221,7 @@ plt.show()
 ```
 
 
-![png](output_15_0.png)
+![png](plots/output_15_0.png)
 
 
 The seasonal variation is exceedingly clear, particularly in the stock of fresh apples, but certainly in the frozen stock as well. The overall fresh apple prices (and those specifically of red delicious apples) follow a generally similar trend, with the seasonal variation much less extreme than in the apple stock.
@@ -242,7 +242,7 @@ plt.show()
 ```
 
 
-![png](output_17_0.png)
+![png](plots/output_17_0.png)
 
 
 
@@ -264,7 +264,7 @@ plt.show()
 ```
 
 
-![png](output_20_0.png)
+![png](plots/output_20_0.png)
 
 
 The minimum stock in storage appears to lag behind the population, but the maximum stocks tracks quite well with the increase in population. This would suggest that the industry has adapted to the increase in population/demand by increasing the apples in fresh stock.
@@ -297,7 +297,7 @@ plt.show()
 ```
 
 
-![png](output_26_0.png)
+![png](plots/output_26_0.png)
 
 
 We choose d = 1 to stationarize the data and a moving box average (q) of 0. This sets up our basic ARIMA model.
@@ -344,7 +344,7 @@ resids1.describe()
 ```
 
 
-![png](output_32_0.png)
+![png](plots/output_32_0.png)
 
 
 
@@ -431,7 +431,7 @@ resids2.describe()
 ```
 
 
-![png](output_36_0.png)
+![png](plots/output_36_0.png)
 
 
 
@@ -501,7 +501,7 @@ pyplot.show()
 ```
 
 
-![png](output_38_0.png)
+![png](plots/output_38_0.png)
 
 
 
@@ -594,7 +594,7 @@ plt.show()
 ```
 
 
-![png](output_48_0.png)
+![png](plots/output_48_0.png)
 
 
 
@@ -660,7 +660,7 @@ plt.show()
 ```
 
 
-![png](output_54_0.png)
+![png](plots/output_54_0.png)
 
 
 
