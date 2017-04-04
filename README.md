@@ -23,13 +23,13 @@ I use both an ARIMA model and an SVR model to examine and predict apple prices o
 
 
 </br>
-**Dependencies**
+<h4>Dependencies</h4>
 
 This Python code was written using Python 2.7 and Numpy 1.5.1, but should be compatible with many other versions. The user may have to install the matplotlib and pylab packages.
 
 
 </br>
-**Other Information**
+<h4>Other Information</h4>
 
 Author: RWK </br>
 License: None, free to use and edit as people wish. </br>
